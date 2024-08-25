@@ -1,6 +1,5 @@
 gunicorn
 awscli==1.33.40
-bcc==0.18.0
 blinker==1.8.2
 Bootstrap-Flask==2.2.0
 botocore==1.34.158
