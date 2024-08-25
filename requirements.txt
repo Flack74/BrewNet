@@ -8,3 +8,4 @@ wadllib==1.3.6
 Werkzeug==2.3.3
 WTForms==3.0.1
 xdg==5
+gunicorn
