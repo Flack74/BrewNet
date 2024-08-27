@@ -84,5 +84,3 @@ With BrewNet, you’re not just discovering cafés – you’re building a commu
 ## 🌐 **Contributing**
 
 Contributions are welcome! Feel free to fork the repository, submit pull requests, and suggest new features.
-
----
