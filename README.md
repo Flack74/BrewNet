@@ -2,8 +2,6 @@
 
 **BrewNet** is your go-to café discovery platform where you can explore, rate, and share cafés based on coffee quality, Wi-Fi strength, and power socket availability. Whether you're on the hunt for a cozy nook to sip your latte or a workspace with blazing-fast Wi-Fi, **BrewNet** has you covered, complete with emoji-based ratings!
 
-https://brewnet.onrender.com/
-
 ## ✨ **Features**
 
 - **Add a Café**: Easily submit your favorite café spots with:
